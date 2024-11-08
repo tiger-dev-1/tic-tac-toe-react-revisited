@@ -1,70 +1,27 @@
-# Getting Started with Create React App
+# Revisiting React with CRA - Tic-Tac-Toe Tutorial
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This Tutorial is available, to be followed step by step, on the Official React JS Documentation Page:
 
-## Available Scripts
+https://react.dev/learn/tutorial-tic-tac-toe
 
-In the project directory, you can run:
+I chose to carry it out in a local environment, due to some errors in the CodeSandbox platform that prevented me from developing it there. It was also not possible to download the project folder, as the zip file was corrupted.
 
-### `npm start`
+So anyone who wants to download it, despite its unavailability on SandBox, can do so here.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The intention of this is to review fundamental concepts of the Library (or Framework).
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Although discontinued, CRA (Create React App) was used for a long time (and perhaps still is) and, regardless of depreciation, its essential concepts are included in the new recommended ways of starting a React project (Vite, Next, Gatsby and Remix).
 
-### `npm test`
+# Revisando React com CRA - Tutorial Jogo da Velha
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Este Tutorial está disponível, para ser realizado passo a passo, na Página Oficial da Documentação do React JS:
 
-### `npm run build`
+https://react.dev/learn/tutorial-tic-tac-toe
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Optei por realizá-lo em ambiente local, devido a alguns erros na plataforma do CodeSandbox que me impediram de desenvolvê-lo por lá. Também não foi possível baixar a pasta do projeto, pois o arquivo zip vinha corrompido.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Assim, qualquer um que deseje baixá-lo, apesar da indisponibilidade no SandBox, pode fazê-lo aqui.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+A intenção desse é rever conceitos fundamentais da Biblioteca (ou do Framework).
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Embora descontinuado, o CRA (Create React App) por muito tempo foi utilizado (e talvez ainda o seja) e, independente da depreciação, seus conceitos essenciais estão inseridos nas novas formas recomendadas de iniciar um projeto React (Vite, Next, Gatsby e Remix).
